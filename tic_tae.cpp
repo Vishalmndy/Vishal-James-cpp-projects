@@ -50,7 +50,7 @@ bool checktie(){
 }
 
 int main(){
-    int player = 1;
+    int player = 2;
     bool game_over = false;
     while(!game_over)
     {
