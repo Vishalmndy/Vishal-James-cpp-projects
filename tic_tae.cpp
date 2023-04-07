@@ -94,5 +94,5 @@ int main(){
 
         game_over = checkwin() || checktie(); }
     }
-
+}
 
