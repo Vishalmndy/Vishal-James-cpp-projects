@@ -87,6 +87,9 @@ int main(){
         else if(choice == 9 && board[2][2] == '9'){
             board[2][2] = mark;
         }
+         else if(choice == 9 && board[2][2] == '9'){
+            board[2][2] = mark;
+        }
         else{
             cout << "Invalid move. Please try again.\n";
             player--;
